@@ -15,12 +15,12 @@ When we use GitHub Desktop on a new computer for the first time,
 we need to configure a few things.
 
 You'll see a welcome screen when you open GitHub Desktop.  Click 
-"Sign in to GitHub.com" enter your GitHub username and password.  
+"Sign in to GitHub.com" and enter your GitHub username and password.  
 
 ![welcome](../fig/GitDesktop1.PNG)
 
 You do not need a 
-GitHub account to use GitHub Desktop (It's an open source program and
+GitHub account to use GitHub Desktop (it's an open source program and
 works even if you don't have a GitHub account - you could click on 
 "Skip this step" on the welcome screen).  However, because we're 
 going to be syncing repositories with GitHub later on in this lesson 
